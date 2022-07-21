@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/prongq/nerrgroup"
+	"github.com/Prongq/nerrgroup"
 )
 
 var (
